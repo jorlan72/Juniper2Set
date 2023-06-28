@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.478,=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\jorlan\OneDrive - MarinIT Cloud\RAD\Juniper2Set\main.dfm=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\jorlan\OneDrive - MarinIT Cloud\RAD\Juniper2Set\main.pas=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,C:\Users\jorlan\OneDrive - MarinIT Cloud\RAD\Juniper2Set\Juniper2Set.dproj=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.824,=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,=C:\Users\jorlan\OneDrive - MarinIT Cloud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
