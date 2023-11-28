@@ -12,7 +12,7 @@ begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.Title := 'Juniper2SET';
-  TStyleManager.TrySetStyle('Wedgewood Light');
+  TStyleManager.TrySetStyle('Onyx Blue');
   Application.CreateForm(TfrmMain, frmMain);
   Application.Run;
 end.
